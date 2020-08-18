@@ -30,6 +30,14 @@ sidebar: [
       '/行测/'
     ]
   },         
+  {
+    title: '常识判断',
+    // collapsable: false,
+    children: [
+      '/常识判断/',
+      '/常识判断/物理知识'
+    ]
+  },         
       
 ]
 },
